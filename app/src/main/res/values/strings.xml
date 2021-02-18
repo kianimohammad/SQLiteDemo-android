@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLite Demo</string>
+    <string name="add_a_new_employee">Add a new Employee</string>
+
+    <string-array name="departments">
+        <item>Technical</item>
+        <item>Support</item>
+        <item>Research and Development</item>
+        <item>Marketing</item>
+        <item>Human Resource</item>
+    </string-array>
+
+</resources>
